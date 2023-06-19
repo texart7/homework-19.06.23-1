@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    border: 0;
+    background-color: rgb(190, 185, 185);
+  }
+  p {
+    display: inline-block;
+    text-align: center;
+    margin: 0;
+  }
+  img {
+    border: 1px solid rgba(0, 0, 0, 0.664);
+    box-sizing: border-box;
+    width: 300px;
+    height: 300px;
+    padding: 3px;
+    margin: 20px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 5px;
+    text-align: center;
+  }
+  .portrait {
+    object-position: top;
+  }
