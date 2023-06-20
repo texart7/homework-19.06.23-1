@@ -3,8 +3,7 @@ body {
     border: 0;
     background-color: rgb(190, 185, 185);
   }
-  p {
-    display: inline-block;
+  .images {
     text-align: center;
     margin: 0;
   }
@@ -18,8 +17,7 @@ body {
     object-fit: cover;
     object-position: center;
     border-radius: 5px;
-    text-align: center;
-  }
+    }
   .portrait {
     object-position: top;
   }
